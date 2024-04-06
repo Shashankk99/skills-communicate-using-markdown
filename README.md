@@ -33,7 +33,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 ## **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
 
-## Example
+### Example
 
 ```md
 # This is an `<h1>` header, which is the largest
@@ -77,6 +77,6 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Added headers to some headings in this file
 
 </footer>
-Added headers to some headings
