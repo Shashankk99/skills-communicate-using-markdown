@@ -31,9 +31,9 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 - Files with the `.md` or `.markdown` extension
 - Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
 
-### **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
+## **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
 
-### Example
+## Example
 
 ```md
 # This is an `<h1>` header, which is the largest
